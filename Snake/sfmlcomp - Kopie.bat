@@ -1,0 +1,1 @@
+g++ -E Mainsfml.cpp -o sfmlexe.cpp -DSFML_STATIC -I C:\Users\marku\Documents\Privat\prog\sfmllol1\SFML-2.5.1-sources\SFML\include -L C:\Users\marku\Documents\Privat\prog\sfmllol1\SFML-2.5.1-sources\SFML\lib -lsfml-graphics-s -lsfml-window-s -lsfml-audio-s -lsfml-network-s -lsfml-system-s -lopengl32 -lwinmm -lgdi32 -lfreetype
